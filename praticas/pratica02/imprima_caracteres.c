@@ -2,8 +2,8 @@
 int main(){
 
     char tecla_pressionada ='A';
-    tecla_pressionada = 'A';
-    printf(" %c \n Isso aqui eh uma string.", tecla_pressionada);
+
+    printf(" '%c' Isso aqui eh uma string.\n ", tecla_pressionada);
    
     return 0;
 }
