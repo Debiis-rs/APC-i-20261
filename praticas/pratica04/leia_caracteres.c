@@ -7,5 +7,6 @@
    printf("O caractere %c equivale ao codigo ASCII %d\n", caracter, caracter);
 
     return 0;
+    
 
 }
